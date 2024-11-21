@@ -1,0 +1,7 @@
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\bin\Debug\zakopanie.exe.config
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\bin\Debug\zakopanie.exe
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\bin\Debug\zakopanie.pdb
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\obj\Debug\zakopanie.csproj.AssemblyReference.cache
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\obj\Debug\zakopanie.csproj.CoreCompileInputs.cache
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\obj\Debug\zakopanie.exe
+C:\Users\skola\Documents\GitHub\PROJEKTY-\zakopanie\obj\Debug\zakopanie.pdb
