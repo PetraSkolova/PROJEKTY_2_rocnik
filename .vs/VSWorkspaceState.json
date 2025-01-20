@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\bonusovy projekt",
+    "\\bonusovy projekt\\bonusovy projekt",
+    "\\bonusovy projekt\\bonusovy projekt\\bonusovy projekt",
     "\\zakopanie"
   ],
-  "SelectedNode": "\\zakopanie\\zakopanie.cs",
+  "SelectedNode": "\\bonusovy projekt\\bonusovy projekt\\bonusovy projekt.sln",
   "PreviewInSolutionExplorer": false
 }
