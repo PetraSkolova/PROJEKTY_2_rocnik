@@ -1,0 +1,15 @@
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\bin\Release\net8.0\bonusovy projekt.exe
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\bin\Release\net8.0\bonusovy projekt.deps.json
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\bin\Release\net8.0\bonusovy projekt.runtimeconfig.json
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\bin\Release\net8.0\bonusovy projekt.dll
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\bin\Release\net8.0\bonusovy projekt.pdb
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.AssemblyInfoInputs.cache
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.AssemblyInfo.cs
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.csproj.CoreCompileInputs.cache
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.sourcelink.json
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.dll
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\refint\bonusovy projekt.dll
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.pdb
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\bonusovy projekt.genruntimeconfig.cache
+C:\Users\skola\Documents\GitHub\PROJEKTY-\bonusovy projekt\bonusovy projekt\bonusovy projekt\obj\Release\net8.0\ref\bonusovy projekt.dll
