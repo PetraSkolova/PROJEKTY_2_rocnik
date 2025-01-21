@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bonusovy projekt 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b093d32847f528654bd7dcb469f4c97d7ff369d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a605e04ff2f212522908d3427e19d65121c5033")]
 [assembly: System.Reflection.AssemblyProductAttribute("bonusovy projekt 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bonusovy projekt 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

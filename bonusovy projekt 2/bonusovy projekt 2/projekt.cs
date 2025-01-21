@@ -14,15 +14,28 @@ namespace zakopanie
         {
             StreamReader sr = new StreamReader("C:\\Users\\skola\\Desktop\\Petra škola\\PI1\\textove subory\\bludisko.txt");
 
-            while (true)
+            Random r = new Random();
+            int random = r.Next(1, 4);
+
+            char priradenie;
+
+            switch (random)
             {
-                string obsah = sr.ReadLine();
-
-                if (obsah == null)
+                case 1:
+                    priradenie = 'a';
                     break;
-
-                Console.WriteLine(obsah);
+                case 2:
+                    priradenie = 'b';
+                    break;
+                case 3:
+                    priradenie = 'c';
+                    break;
+                default:
+                    priradenie= '?'; // Bezpečnostné opatrenie, ktoré by sa nemalo nikdy spustiť
+                    break;
             }
+
+            Console.WriteLine($"Vygenerované číslo: {randomNumber}, priradené písmeno: {assignedLetter}");
         }
     }
 }
