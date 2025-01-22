@@ -35,7 +35,7 @@ namespace zakopanie
                     break;
             }
 
-            Console.WriteLine($"Vygenerované číslo: {randomNumber}, priradené písmeno: {assignedLetter}");
+            Console.WriteLine($"Vygenerované číslo: {random}, priradené písmeno: {priradenie}");
         }
     }
 }
