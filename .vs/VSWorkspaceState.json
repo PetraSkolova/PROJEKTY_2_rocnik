@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\bonusovy projekt 2",
-    "\\bonusovy projekt 2\\bonusovy projekt 2"
+    "\\bonusovy projekt 2\\bonusovy projekt 2",
+    "\\bonusovy-projekt",
+    "\\bonusovy-projekt\\bonusovy-projekt"
   ],
-  "SelectedNode": "\\bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor",
+  "SelectedNode": "\\bonusovy-projekt\\bonusovy-projekt\\obj",
   "PreviewInSolutionExplorer": false
 }

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy-projekt\\bonusovy-projekt\\vstupny subor||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bonusovy-projekt\\bonusovy-projekt\\vstupny subor||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy projekt 2\\bonusovy projekt 2\\projekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,10 +28,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "vstupny subor",
-              "DocumentMoniker": "C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor",
-              "RelativeDocumentMoniker": "bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor",
-              "ToolTip": "C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor",
-              "RelativeToolTip": "bonusovy projekt 2\\bonusovy projekt 2\\vstupny subor",
+              "DocumentMoniker": "C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy-projekt\\bonusovy-projekt\\vstupny subor",
+              "RelativeDocumentMoniker": "bonusovy-projekt\\bonusovy-projekt\\vstupny subor",
+              "ToolTip": "C:\\Users\\skola\\Documents\\GitHub\\PROJEKTY-\\bonusovy-projekt\\bonusovy-projekt\\vstupny subor",
+              "RelativeToolTip": "bonusovy-projekt\\bonusovy-projekt\\vstupny subor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-22T18:17:15.843Z",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "bonusovy projekt 2\\bonusovy projekt 2\\projekt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:12:09.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:12:09.779Z"
             }
           ]
         }
